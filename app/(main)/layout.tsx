@@ -20,7 +20,10 @@ const layout = ({ children }: { children: ReactNode }) => {
               Software Engineer
             </p>
           </Link>
-          <Link href={"/"} className="p-2 border rounded-sm">
+          <Link
+            href={"https://github.com/yash-ag-online"}
+            className="p-2 border rounded-sm"
+          >
             <Github className="size-4" />
           </Link>
         </div>

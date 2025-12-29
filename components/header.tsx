@@ -29,7 +29,7 @@ const Header = () => {
             <UserButton />
           </SignedIn>
           <Link
-            href={"/"}
+            href={"https://github.com/yash-ag-online/ChatVior"}
             className="p-2 border rounded-sm sm:flex items-center gap-2 px-4 hidden"
           >
             <Github className="size-4" />
